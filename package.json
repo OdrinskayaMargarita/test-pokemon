@@ -2,7 +2,7 @@
   "name": "pokemons",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://odrinskayamargarita.github.io/pokemonApi",
+  "homepage": "http://odrinskayamargarita.github.io/test-pokemon",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
