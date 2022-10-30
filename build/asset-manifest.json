@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pokemonApi/static/js/main.bb6c3854.js",
+    "static/js/787.86f9dd6d.chunk.js": "/pokemonApi/static/js/787.86f9dd6d.chunk.js",
+    "static/media/img.png": "/pokemonApi/static/media/img.66c7c247e81fc72c7560.png",
+    "index.html": "/pokemonApi/index.html",
+    "main.bb6c3854.js.map": "/pokemonApi/static/js/main.bb6c3854.js.map",
+    "787.86f9dd6d.chunk.js.map": "/pokemonApi/static/js/787.86f9dd6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bb6c3854.js"
+  ]
+}
